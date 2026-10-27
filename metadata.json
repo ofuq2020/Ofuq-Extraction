@@ -1,0 +1,8 @@
+{
+  "name": "Ofuq Extraction",
+  "description": "High-fidelity PDF to Excel converter with bidirectional source verification and Arabic/RTL reconstruction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
